@@ -1,6 +1,6 @@
 # Nguyễn Văn Trãi
 
-Linux administration, system automation, and custom tool development. Student at PTIT (2025-2030) in Thu Duc, HCMC.
+Linux administration, system automation, and custom tool development. Student at PTIT (2025-2030) in HCMC.
 
 ---
 
