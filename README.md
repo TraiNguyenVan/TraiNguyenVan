@@ -4,6 +4,7 @@ Linux administration, system automation, and Minecraft infrastructure. Computer 
 
 ---
 
+## Quick understanding of me
 ```
 Linux / systemd / DWM / Wayland / Docker
 Bash / Zsh / Python (OpenCV) / Rust (Tauri) / C / Lua / JS
