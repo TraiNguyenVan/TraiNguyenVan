@@ -1,6 +1,6 @@
 # Nguyễn Văn Trãi
 
-Linux administration, system automation, and Minecraft infrastructure. Computer Science student at PTIT (2025-2030) in HCMC.
+Linux administration, system automation, and Minecraft infrastructure. Infomation and Technology student at PTIT (2025-2030) in HCMC.
 
 ---
 
